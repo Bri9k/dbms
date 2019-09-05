@@ -1,0 +1,5 @@
+Aragorn	Bree	2931-03-01
+Saruman	Orthnac	\N
+Bilbo	Hobbiton	2890-09-22
+Frodo	Hobbiton	2968-09-22
+Legolas	Mirkwood	0087-01-01
