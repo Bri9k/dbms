@@ -2,3 +2,7 @@
 *\.un~
 *.tar.gz
 *.zip
+*.png
+*.html
+*.pdf
+*.docx
